@@ -1,0 +1,13 @@
+.pass{
+    font: bold 24pt "Times New Roman", Times, serif;
+    background-color: aqua;
+    border: 10px ridge black;
+    padding: 100px;
+    margin: 10px;
+    text-align: center;
+}
+.sui{
+    position : relative;
+    top: -1ex;
+    background-color: black;
+}
